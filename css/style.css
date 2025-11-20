@@ -114,6 +114,7 @@ a:visited {
     margin-top: 5px;
     padding: 10px;
     text-decoration: none;
+    color: white;
     transition: all 0.3s ease-in-out;
 }
 
@@ -284,5 +285,6 @@ footer {
     width: 40%;
     font-size: 14px;
     text-align: center;
+
 
 }
